@@ -1,5 +1,20 @@
 ### Changelog PhilSmith31
 
+### 07.05.2019
+* ROM:
+    * May 2019 security updates
+    * Synced Chromium Webview and Skia with lineageOS
+* Kernel:
+    * Upstreamed to 3.18.139 linux-stable
+    * Merged in changes from aosp bulletins considering kernel/3.18
+	* Merged in qualcomm related security changes from the last six months (mainly qcacld-2.0)
+
+### 06.04.2019
+* ROM:
+    * April 2019 security updates
+* Kernel:
+    * Upstreamed to 3.18.138 linux-stable
+
 ### 14.03.2019
 * ROM:
     * March 2019 security updates
